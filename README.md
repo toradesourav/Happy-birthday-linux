@@ -21,5 +21,5 @@ A simple single-file HTML tribute page celebrating Linux's 35th birthday.
 ## Author
 Sourav Torade
 - Full Stack Development & Cybersecurity
-- [LinkedIn](https://linkedin.com/in/souravtorade)
+- [LinkedIn](https://www.linkedin.com/in/sourav-torade-2a2b853bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
