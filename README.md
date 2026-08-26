@@ -1,3 +1,4 @@
+
 # 🐧 Tux Birthday Page
 
 A simple single-file HTML tribute page celebrating Linux's 35th birthday.
