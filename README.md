@@ -22,5 +22,4 @@ A simple single-file HTML tribute page celebrating Linux's 35th birthday.
 Sourav Torade
 - Full Stack Development & Cybersecurity
 - [LinkedIn](https://www.linkedin.com/in/sourav-torade-2a2b853bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=toradesourav&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=toradesourav&theme=algolia&no-frame=true&column=6)
